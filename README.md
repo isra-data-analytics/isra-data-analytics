@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Israel
 
-<!--
-**isra-data-analytics/isra-data-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst interested in turning data into insights.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python
+- R
+- SQL
+- Pandas
+- NumPy
+- Statistics
+- Data Analysis
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Interests
+- Data Science
+- Machine Learning
+- Statistical Modeling
+- Data Visualization
+
+## 🚀 Currently Learning
+- Advanced Python
+- Machine Learning
+- Data Engineering
